@@ -38,6 +38,8 @@ class Common(Configuration):
         'debug_toolbar',
 
         'gratis.users',
+
+        'gratis.reward'
     ]
 
     MIDDLEWARE = [
